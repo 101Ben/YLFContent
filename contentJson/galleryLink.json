@@ -1,5 +1,21 @@
 [
   {
+    "group": "banner",
+    "pic": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/banner/ylf2020.png"
+  },
+  {
+    "group": "banner",
+    "pic": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/banners/ylf2019.png"
+  },
+  {
+    "group": "banner",
+    "pic": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/banner/ylf2017.png"
+  },
+  {
+    "group": "banner",
+    "pic": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/banner/ylf2012.png"
+  },
+  {
     "group" : "other",
     "pic" : "https://raw.githubusercontent.com/101Ben/YLFContent/master/galleryContent/00.jpg"
   },
