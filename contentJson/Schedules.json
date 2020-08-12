@@ -10,7 +10,7 @@
   },
   {
     "id":"2",
-    "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/speaker.jpg",
+    "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/speaker.png",
     "time": "9:12 to 9:15",
     "duration": "3 minutes",
     "location" : "Main Room",
@@ -63,7 +63,7 @@
 },
   {
     "id":"2",
-    "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/speaker.jpg",
+    "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/speaker.png",
     "time": "10:05 to 10:10",
     "duration": "5 minutes",
     "location" : "Main Room",
@@ -99,7 +99,7 @@
   },
   {
     "id":"2",
-    "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/speaker.jpg",
+    "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/speaker.png",
     "time": "10:55 to 11:00",
     "duration": "5 minutes",
     "location" : "Main Room",
@@ -135,7 +135,7 @@
   },
   {
     "id":"2",
-    "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/speaker.jpg",
+    "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/speaker.png",
     "time": "11:35 to 11:45",
     "duration": "5 minutes",
     "location" : "Main Room",
