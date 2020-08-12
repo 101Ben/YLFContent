@@ -46,9 +46,9 @@
   },
   {
     "id":"3",
-    "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/right.png",
+    "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/welcome.png",
     "time": "9:25 to 9:30",
-    "duration": "xx minutes",
+    "duration": "5 minutes",
     "location" : "Main Room",
     "theme": "Welcome From Rev Anderson and YLF Founders",
     "summary": "brief summary"
@@ -72,7 +72,7 @@
   },
   {
     "id":"5",
-    "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/temp.jpg",
+    "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/temp.png",
     "time": "10:10 to 10:5",
     "duration": "5 minutes",
     "location" : "Main Room",
@@ -117,7 +117,7 @@
   },
   {
     "id":"5",
-    "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/temp.jpg",
+    "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/temp.png",
     "time": "11:05 to 11:10",
     "duration": "5 minutes",
     "location" : "Main Room",
@@ -153,7 +153,7 @@
   },
   {
     "id":"4",
-    "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/giveaways.png",
+    "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/giveaway.png",
     "time": "11:47 to 12:00",
     "duration": "13 minutes",
     "location" : "Main Room",
