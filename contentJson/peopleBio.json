@@ -37,8 +37,14 @@
   },
   {
     "group": "speaker20",
-    "name": "Speaker name",
-    "link": "https://raw.githubusercontent.com/101Ben/YLFContent/master/speaker20/speaker.png",
-    "bio": "Speaker bio"
+    "name": "Matt Sanders",
+    "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/speaker20/matt.jpg",
+    "bio": "Matt Sanders is a supervising attorney for the King County Department of Public Defense, ACA Division.  He supervises the juvenile unit.  He brings an impressive set of career accomplishments to the role.  In 2019, after a two-month jury trial, he obtained an acquittal for a black father falsely accused of murder. Indeed, the  jury deliberated for less than two hours. For the past seven years, he has zealously defended clients in King County, taking dozens of cases to trial. He is regarded as one of the most accomplished trial attorneys at ACAD.  In addition to his stellar work as an attorney, Matt has shown a real commitment to social justice, volunteering regularly and graduating from the Washington Leadership Institute."
+  },
+  {
+    "group": "speaker20",
+    "name": "Matt Sanders",
+    "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/speaker20/matt.jpg",
+    "bio": "Fabienne 'Fae' Brooks retired after 26 years of service as Chief of the Criminal Investigation Division for the King County Sheriff’s Office. Since 2004, Chief Brooks has been a consultant on law enforcement/community relations and has developed specialized training for law enforcement officers and employees, leading a team of international trainers who are providing training in customer service and diversity to law enforcement and communities across the US and internationally in England and Switzerland. She is a member of the FBI National Academy Associates, the National Organization of Black Law Enforcement Executives (NOBLE), the Black Law Enforcement Association of Washington (BLEAW), NAACP and First AME Church. Married for 42 years to a retired Seattle Firefighter, family of 4 adult children, 10 grandchildren and 3 great-grandchildren."
   }
 ]
