@@ -2,154 +2,92 @@
   {
     "id":"1",
     "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/welcome.png",
-    "time": "9:00 to 9:12",
-    "duration": "12 minutes",
+    "time": "9:00 AM",
+    "duration": "",
     "location" : "Main Room",
-    "theme": "Welcome and Greetings from Chair",
-    "summary": "brief summary"
+    "theme": "Welcome and Greetings",
+    "summary": "Chair Greetings \nDignitary Introductions"
   },
   {
     "id":"2",
-    "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/speaker.png",
-    "time": "9:12 to 9:15",
-    "duration": "3 minutes",
+    "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/group1.png",
+    "time": "",
+    "duration": "",
     "location" : "Main Room",
-    "theme": "Special Guess",
-    "summary": "brief summary"
+    "theme": "Group Activity I",
+    "summary": "Special Guest \nSpoken Word\nAM Fitness Warm-up & stretch\nGreetings\nProgram Review"
   },
   {
-    "id":"2",
-    "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/poetry.png",
-    "time": "9:15 to 9:18",
-    "duration": "3 minutes",
-    "location" : "Main Room",
-    "theme": "Youth Poem",
-    "summary": "Spoken word"
-  },
-  {
-    "id":"3",
-    "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/exercise.png",
-    "time": "9:18 to 9:21",
-    "duration": "3 minutes",
-    "location" : "Main Room",
-    "theme": "Fitness Yoga",
-    "summary": "brief summary"
-  },
-  {
-    "id":"3",
-    "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/debate.png",
-    "time": "9:21 to 9:25",
-    "duration": "4 minutes",
-    "location" : "Main Room",
-    "theme": "Youth Debate",
-    "summary": "brief summary"
-  },
-  {
-    "id":"3",
-    "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/welcome.png",
-    "time": "9:25 to 9:30",
-    "duration": "5 minutes",
-    "location" : "Main Room",
-    "theme": "Welcome From Rev Anderson and YLF Founders",
-    "summary": "brief summary"
-  },{
   "id":"4",
   "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/lesson.png",
-  "time": "9:30 to 10:05",
-  "duration": "35 minutes",
+  "time": "",
+  "duration": "",
   "location" : "Breakout Rooms",
   "theme": "Lesson 1: Legal Rights & Responsibilities",
   "summary": "Come learn about common legal dos and don’ts, and get your questions answered by esteemed defense attorneys! Opening remarks by Attorney Craig Sims followed by a presentation by the National Black Law Enforcement Association! Breakout discussions led by Attorneys Matthew Sanders, Patricia Quinn, and Johnathon Nomamiukor will take a deeper dive into this topic."
 },
-  {
-    "id":"2",
-    "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/speaker.png",
-    "time": "10:05 to 10:10",
-    "duration": "5 minutes",
-    "location" : "Main Room",
-    "theme": "Special Guess",
-    "summary": "Social Media Influencer"
-  },
-  {
+    {
     "id":"5",
     "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/temp.png",
-    "time": "10:10 to 10:5",
+    "time": "",
     "duration": "5 minutes",
     "location" : "Main Room",
-    "theme": "Dignitary Introduction",
-    "summary": "brief summary"
+    "theme": "Break",
+    "summary": "Enjoy the Break!! \n\n Chat if you Can!!"
   },
   {
-    "id":"3",
-    "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/debate.png",
-    "time": "10:15 to 10:20",
-    "duration": "4 minutes",
+    "id":"2",
+    "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/group2.png",
+    "time": "",
+    "duration": "",
     "location" : "Main Room",
-    "theme": "Youth Debate",
-    "summary": "brief summary"
+    "theme": "Group Activity II",
+    "summary": "Youth Debate\nSpecial Guest\nDignitary Introduction (Elected officials)"
   },
   {
     "id":"4",
     "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/lesson.png",
-    "time": "10:20 to 10:55",
-    "duration": "35 minutes",
-    "location" : "Breakout Rooms",
+    "time": "",
+    "duration": "",
+    "location" : "Main Room",
     "theme": "Lesson 2: Speaking Truth to Power - Social Change & The Law",
     "summary": "Hear from our panelists about being an agent for change! Panelists include Executive Director of the American Civil Liberties Union of Washington Michele Storms, King County District 2 Councilmember Girmay Zhailay, Community Volunteer Bobby Alexander, and King County Deputy Prosecuting Attorney Leandra Craft. "
   },
-  {
-    "id":"2",
-    "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/speaker.png",
-    "time": "10:55 to 11:00",
-    "duration": "5 minutes",
-    "location" : "Main Room",
-    "theme": "Special Guess",
-    "summary": "Athletes"
-  },
-  {
-    "id":"3",
-    "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/exercise.png",
-    "time": "11:00 to 11:05",
-    "duration": "3 minutes",
-    "location" : "Main Room",
-    "theme": "Fitness Yoga",
-    "summary": "brief summary"
-  },
-  {
+      {
     "id":"5",
     "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/temp.png",
-    "time": "11:05 to 11:10",
+    "time": "",
     "duration": "5 minutes",
     "location" : "Main Room",
-    "theme": "Dignitary Introduction",
-    "summary": "brief summary"
+    "theme": "Break",
+    "summary": "Enjoy the Break!! \n\n Chat if you Can!!"
+  },
+  {
+    "id":"2",
+    "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/exercise.png",
+    "time": "",
+    "duration": "",
+    "location" : "Main Room",
+    "theme": "Group Activity III",
+    "summary": "Soecial Guest\nYouth Poem\nPM Fitness Workout\nDignitary Introductions (Superior Courth Judges, City Representatives)"
   },
   {
     "id":"4",
     "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/lesson.png",
-    "time": "11:10:20 to 11:35",
-    "duration": "25 minutes",
+    "time": "",
+    "duration": "",
     "location" : "Breakout Rooms",
     "theme": "Lesson 3: Taking Care of Yourself While Taking Care of Business",
     "summary": "Learn helpful tips on managing stress and maintaining good mental health while trying to make positive change. Hear from our engaging speakers, Dr. Nefertiti Durant, MD, MPH, Pediatrician/Adolescent Medicine; Ms. Lara Okoloko, LICSW, Clinical Therapist and Adjunct Instructor, School of Social Work;  Logic Amen, SPS, MA, Principal; and Mr. Clarence Baber, College Prep. Advisor, Kent Meridian H.S. These special guests will engage participants in a dialogue and offer strategies and tips for managing our \"new normal\"."
   },
   {
     "id":"2",
-    "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/speaker.png",
-    "time": "11:35 to 11:45",
-    "duration": "5 minutes",
+    "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/group3.png",
+    "time": "",
+    "duration": "",
     "location" : "Main Room",
-    "theme": "Special Guess",
-    "summary": "Musician"
-  },
-  {
-    "id":"2",
-    "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/poetry.png",
-    "time": "11:45 to 11:47",
-    "duration": "3 minutes",
-    "location" : "Main Room",
-    "theme": "Youth Poem",
-    "summary": "Spoken word"
+    "theme": "Group Activity IV",
+    "summary": "Special Guests(Artist, Social Media Influencer, Athletes)\nYouth Poem"
   },
   {
     "id":"4",
