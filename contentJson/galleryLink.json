@@ -1,6 +1,10 @@
 [
   {
     "group": "banner",
+    "pic": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/2021Flyer.png"
+  },
+  {
+    "group": "banner",
     "pic": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/banners/ylf2020.png"
   },
   {
