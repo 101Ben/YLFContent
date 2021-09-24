@@ -1,100 +1,127 @@
 [
   {
-    "id":"1",
+    "id": "1",
     "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/welcome.png",
-    "time": "9:00 AM",
+    "time": "",
     "duration": "",
-    "location" : "Main Room",
+    "location": "Main Room",
     "theme": "Welcome and Greetings",
     "summary": "Chair Greetings \nDignitary Introductions"
   },
   {
-    "id":"2",
+    "id": "2",
     "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/group1.png",
     "time": "",
     "duration": "",
-    "location" : "Main Room",
-    "theme": "Group Activity I",
-    "summary": "Special Guest \nSpoken Word\nAM Fitness Warm-up & stretch\nGreetings\nProgram Review"
+    "location": "Main Room",
+    "theme": "Prayer and Introduction",
+    "summary": "Pastor Carey Anderson \nJudge McCullough"
   },
   {
-  "id":"4",
-  "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/lesson.png",
-  "time": "",
-  "duration": "",
-  "location" : "Breakout Rooms",
-  "theme": "Lesson 1: Legal Rights & Responsibilities",
-  "summary": "Come learn about common legal dos and don’ts, and get your questions answered by esteemed defense attorneys! Opening remarks by Attorney Craig Sims followed by a panel discussion with law enforcement. There will be true/false trivia about YOUR legal rights & responsibilities as well as discussions led by Attorneys Matthew Sanders, Anna Samuels, and Jonathon Nomamiukor. Middle school, high school, and adult participants will be in separate breakout rooms."
-},
-    {
-    "id":"5",
+    "id": "3",
+    "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/giveaway.png",
+    "time": "",
+    "duration": "",
+    "location": "Main Room",
+    "theme": "Drawing",
+    "summary": "Personal Computers\nGift Certificates"
+  },
+  {
+    "id": "4",
+    "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/group1.png",
+    "time": "",
+    "duration": "",
+    "location": "Main Room",
+    "theme": "Speaker Introduction",
+    "summary": "Assistant US Attorney at the United States Attorneys' Offices, Erika Evans"
+  },
+  {
+    "id": "5",
+    "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/group1.png",
+    "time": "",
+    "duration": "",
+    "location": "Main Room",
+    "theme": "Keynotes Speaker",
+    "summary": "United States Attorney for the Western District of Washington, Nicholas Brown"
+  },
+  {
+    "id": "6",
     "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/temp.png",
     "time": "",
     "duration": "5 minutes",
-    "location" : "Main Room",
+    "location": "Main Room",
     "theme": "Break",
-    "summary": "Enjoy the Break!! \n\n Chat if you Can!!"
+    "summary": "Enjoy the Break!! \nChat if you Can!!"
   },
   {
-    "id":"2",
-    "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/group2.png",
-    "time": "",
-    "duration": "",
-    "location" : "Main Room",
-    "theme": "Group Activity II",
-    "summary": "Youth Debate\nSpecial Guest\nDignitary Introduction (Elected officials)"
-  },
-  {
-    "id":"4",
-    "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/lesson.png",
-    "time": "",
-    "duration": "",
-    "location" : "Main Room",
-    "theme": "Lesson 2: Speaking Truth to Power - Social Change & The Law",
-    "summary": "Hear from our panelists about being an agent for change! Panelists include Executive Director of the American Civil Liberties Union of Washington, Michele Storms; King County Councilmember, Girmay Zahilay; Community Volunteer Bobby Alexander; and King County Deputy Prosecuting Attorney, Leandra Craft."
-  },
-      {
-    "id":"5",
-    "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/temp.png",
-    "time": "",
-    "duration": "5 minutes",
-    "location" : "Main Room",
-    "theme": "Break",
-    "summary": "Enjoy the Break!! \n\n Chat if you Can!!"
-  },
-  {
-    "id":"2",
+    "id": "7",
     "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/exercise.png",
     "time": "",
     "duration": "",
-    "location" : "Main Room",
-    "theme": "Group Activity III",
-    "summary": "Soecial Guest\nYouth Poem\nPM Fitness Workout\nDignitary Introductions (Superior Courth Judges, City Representatives)"
+    "location": "Main Room",
+    "theme": "Group Exercice",
+    "summary": "Get up and move a little"
   },
   {
-    "id":"4",
+    "id": "8",
     "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/lesson.png",
     "time": "",
     "duration": "",
-    "location" : "Breakout Rooms",
-    "theme": "Lesson 3: Taking Care of Yourself While Taking Care of Business",
-    "summary": "Learn helpful tips on managing stress and maintaining good mental health while trying to make positive change. Hear from our engaging speakers, Dr. Nefertiti Durant, MD, MPH, Pediatrician/Adolescent Medicine; Ms. Lara Okoloko, LICSW, Clinical Therapist and Adjunct Instructor, School of Social Work;  Logic Amen, SPS, MA, Principal; and Mr. Clarence Baber, College Prep. Advisor, Kent Meridian H.S. These special guests will engage participants in a dialogue and offer strategies and tips for managing our \"new normal\"."
+    "location": "Breakout Rooms",
+    "theme": "Viewing and Discussion: 12 Angry Jurors - Acts on Stage",
+    "summary": ""
   },
   {
-    "id":"2",
+    "id": "9",
+    "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/temp.png",
+    "time": "",
+    "duration": "5 minutes",
+    "location": "Main Room",
+    "theme": "Break",
+    "summary": "Enjoy the Break!! \nChat if you Can!!"
+  },
+  {
+    "id": "10",
+    "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/giveaway.png",
+    "time": "",
+    "duration": "",
+    "location": "Main Room",
+    "theme": "Drawing",
+    "summary": "Personal Computers\nGift Certificates"
+  },
+  {
+    "id": "11",
+    "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/temp.png",
+    "time": "",
+    "duration": "5 minutes",
+    "location": "Main Room",
+    "theme": "Break",
+    "summary": "Enjoy the Break!! \n\n Chat if you Can!!"
+  },
+  {
+    "id": "12",
     "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/group3.png",
     "time": "",
     "duration": "",
-    "location" : "Main Room",
-    "theme": "Group Activity IV",
-    "summary": "Special Guests(Artist, Social Media Influencer, Athletes)\nYouth Poem"
+    "location": "Breakout Rooms",
+    "theme": "Group Lesson",
+    "summary": "Youth Session\n\nAdult Session"
   },
   {
-    "id":"4",
+    "id": "13",
     "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/giveaway.png",
-    "time": "11:47 to 12:00",
+    "time": "",
     "duration": "",
-    "location" : "Main Room",
+    "location": "Main Room",
+    "theme": "Drawing",
+    "summary": "Personal Computers\nGift Certificates"
+  },
+  {
+    "id": "14",
+    "link": "https://raw.githubusercontent.com/YouthandLaw/YLFContent/master/iconCards/giveaway.png",
+    "time": "",
+    "duration": "",
+    "location": "Main Room",
     "theme": "Closing Remarks and Gift Raffle",
     "summary": "Don't forgot to claim you gift"
   }
