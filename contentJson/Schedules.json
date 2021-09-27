@@ -33,7 +33,7 @@
     "duration": "",
     "location": "Main Room",
     "theme": "Speaker Introduction",
-    "summary": "Assistant US Attorney at the United States Attorneys' Offices, Erika Evans"
+    "summary": "Attorney Erika Evans"
   },
   {
     "id": "5",
@@ -42,7 +42,7 @@
     "duration": "",
     "location": "Main Room",
     "theme": "Keynotes Speaker",
-    "summary": "United States Attorney for the Western District of Washington, Nicholas Brown"
+    "summary": "Attorney Nicholas Brown"
   },
   {
     "id": "6",
@@ -105,6 +105,6 @@
     "duration": "",
     "location": "Main Room",
     "theme": "Closing Remarks and Gift Raffle",
-    "summary": "Don't forgot to claim you gift"
+    "summary": "Personal Computers\n\nGift Certificates\n\nClaim you gift"
   }
 ]
